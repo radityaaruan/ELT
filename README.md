@@ -1,4 +1,4 @@
-# 🏦 Pegadaian ETL Data Pipeline
+# 🏦 Pegadaian ETL Data Dummy Pipeline
 
 ![Python](https://img.shields.io/badge/python-v3.9+-blue.svg)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-2.0+-orange.svg)
@@ -255,9 +255,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Raditya Aruan**
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername]
-- Email: your.email@example.com
+- LinkedIn: radityaaruan
+- GitHub: @radityaaruan
+- Email: radityaruan@gmail.com
 
 ## 🙏 Acknowledgments
 
